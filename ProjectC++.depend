@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1390735740 source:c:\users\n\desktop\projectc++\main.cpp
+	"ekserevnisis.h"
+	"Xarths.h"
+	"oxima.h"
+	<iostream>
+	"analisis.h"
+	"diaswsis.h"
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<string>
+	<unistd.h>
+	<signal.h>
+	<vector>
+
+1389553063 source:c:\users\n\desktop\projectc++\cell.cpp
+	<iostream>
+	<stdlib.h>
+	"cell.h"
+	"oxima.h"
+
+1389546351 c:\users\n\desktop\projectc++\cell.h
+	"oxima.h"
+
+1390734527 c:\users\n\desktop\projectc++\oxima.h
+	<vector>
+	"Xarths.h"
+	<string>
+
+1390736196 source:c:\users\n\desktop\projectc++\ekserevnisis.cpp
+	"ekserevnisis.h"
+	"oxima.h"
+	<iostream>
+	"Xarths.h"
+	<vector>
+	<stdlib.h>
+	<ctime>
+
+1390735740 c:\users\n\desktop\projectc++\ekserevnisis.h
+	"oxima.h"
+	"Xarths.h"
+	<vector>
+
+1390734945 source:c:\users\n\desktop\projectc++\oxima.cpp
+	"Xarths.h"
+	"oxima.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1390735740 source:c:\users\n\desktop\projectc++\xarths.cpp
+	"Xarths.h"
+	"oxima.h"
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<string>
+
+1390735740 c:\users\n\desktop\projectc++\xarths.h
+	"oxima.h"
+	<string>
+
+1390734945 source:c:\users\n\desktop\projectc++\diaswsis.cpp
+	"diaswsis.h"
+	"oxima.h"
+	"Xarths.h"
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<ctime>
+
+1390735740 c:\users\n\desktop\projectc++\diaswsis.h
+	"oxima.h"
+	"Xarths.h"
+	<vector>
+
+1390735740 source:c:\users\n\desktop\projectc++\analisis.cpp
+	"analisis.h"
+	"oxima.h"
+	"Xarths.h"
+	<vector>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
+1390348661 c:\users\n\desktop\projectc++\analisis.h
+	"oxima.h"
+	"Xarths.h"
+	<vector>
+
